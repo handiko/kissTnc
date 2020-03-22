@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Arduino-VSC"
+		},
+		{
+			"name": "FFT-vs-FIR",
+			"path": "D:\\Arduino-VSC\\FFT-vs-FIR"
+		},
+		{
+			"name": "Test-LCD-I2C",
+			"path": "D:\\Arduino-VSC\\Test-LCD-I2C"
+		},
+		{
+			"name": "I2C-Scanner",
+			"path": "D:\\Arduino-VSC\\I2C-Scanner"
+		},
+		{
+			"name": "kissTNC",
+			"path": "kissTNC"
+		}
+	],
+	"settings": {}
+}
